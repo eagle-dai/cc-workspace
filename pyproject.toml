@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "General-purpose workspace for Claude Code ad-hoc tasks"
 requires-python = ">=3.10"
 dependencies = [
+    "cairosvg>=2.8.2",
     "easyocr>=1.7.2",
     "pillow>=12.1.1",
     "python-pptx>=1.0.2",
