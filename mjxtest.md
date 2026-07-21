@@ -35,3 +35,12 @@ $$
 ## 变体 D：单行 $$ 无 aligned
 
 $$PSR(SR^{*}_{multipletrials})$$
+
+## 变体 E：* 换成 \ast（修复候选）
+
+$$
+\begin{aligned}
+PSR(SR^{\ast}) & = \Phi \left( \frac{(\hat{SR} - SR^{\ast})\sqrt{T-1}}{\sqrt{1 - \gamma_{3}\hat{SR} + \frac{\gamma_{4}-1}{4}\hat{SR}^{2}}} \right) , \\
+DSR & = PSR(SR^{\ast}_{multipletrials}).
+\end{aligned}
+$$
